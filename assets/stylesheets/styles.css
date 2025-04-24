@@ -181,14 +181,14 @@
   
   .section-header {
     text-align: center;
-    padding-bottom: 15px;
+    margin-top: 40px;
   }
   
   .section-header h2 {
-    font-size: 32px;
+    font-size: 28px;
     position: relative;
-    color: var(--color-primary);
-    text-decoration: underline;
+    font-weight: 600;
+    margin-bottom: 40px;
   }
   
   .section-header p {
@@ -1937,7 +1937,7 @@
     text-decoration: underline;
   }
   .icon-box .icon img{
-    width: 77px;
+    width: 100px;
   }
   
   .icon-box .title {
@@ -2784,7 +2784,7 @@
       -ms-border-radius: 8px;
       -o-border-radius: 8px;
       margin: 0 auto;
-      padding: 40px 20px;
+      /* padding: 40px 20px; */
       transition: .5s;
       -webkit-transition: .5s;
       -moz-transition: .5s;
@@ -3858,7 +3858,7 @@
 }
 
 .slides-3{
-  height: auto;
+  height: 62vh;
 }
 
 
