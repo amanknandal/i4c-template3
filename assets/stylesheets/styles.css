@@ -1676,7 +1676,7 @@
   .hero {
     width: 100%;
     position: relative;
-    background: url(../images/hero.png) center center;
+    background: url(../images/hero.jpg) center center;
     background-size: cover;
     height: 90vh;
     display: flex;
@@ -1801,7 +1801,7 @@
   
   @media (max-width: 991px) {
     .hero {
-      background: url(../images/hero-bg.png) center center;
+      background: url(../images/hero.jpg) center center;
     }
     .hero h2 {
       font-size: 22px;
